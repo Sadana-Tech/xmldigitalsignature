@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SalaryDeposit>
+    <Organisation>
+        <Name>DDLab Inc</Name>
+        <AccountNo>SBC-12345789</AccountNo>
+    </Organisation>
+    <Employees>
+        <Emp>
+            <Name>John Abraham</Name>
+            <AccountNo>SB-001</AccountNo>
+            <Amount>1234</Amount>
+        </Emp>
+        <Emp>
+            <Name>Bipasha Basu</Name>
+            <AccountNo>SB-002</AccountNo>
+            <Amount>2334</Amount>
+        </Emp>
+        <Emp>
+            <Name>Vidya Balan</Name>
+            <AccountNo>SB-003</AccountNo>
+            <Amount>3465</Amount>
+        </Emp>
+        <Emp>
+            <Name>Debadatta Mishra</Name>
+            <AccountNo>SB-007</AccountNo>
+            <Amount>5789</Amount>
+        </Emp>
+        <Emp>
+            <Name>Priti Zinta</Name>
+            <AccountNo>SB-009</AccountNo>
+            <Amount>1234</Amount>
+        </Emp>
+    </Employees>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>76cT5C0GxXzjAU+Hb9oiMyGq9mVuVYNqnCPxyULzyfhqeKiT/iGtv76isCPaVOBlWf+t+SeS2zSJ&#13;
+0XSfCLJVqw==</DigestValue></Reference></SignedInfo><SignatureValue>WkmD6AuY8MKWykuqWrayCOk5E791lHIJNi51djNGeoCNDWQIMkRSCkHM1E6dhdedWWHTFCuAmc9F&#13;
+Cx0EsAKmhkPspKY9GMjnOVK4fpVHDqAZk1EeIoHibexmi99PlPj0B7LFTeTi+9nnxWfxRV8LBfPh&#13;
+2ugFwK5nZsuOurufWmc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>g8m0NPcaodzQdNMsMWt9SXvScrC4+U9LJ/yGoP47Ni8HDMCLIaIIfcorURmYHxfX1lw9NU/CAqkK&#13;
+BYCkX1ejg0CoAcc5L2NYM7ZkH9O8I4QQSMgbPC1NPC7tyBX9+1K3VIKKN/i+AwwYWshzjgK9u4cD&#13;
+0az1ypae4l+GuPWHQnk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></SalaryDeposit>
